@@ -1,2 +1,0 @@
-INSERT INTO CATEGORIA(nome) VALUES ('Informática');
-INSERT INTO CATEGORIA(nome) VALUES ('Escritório');
